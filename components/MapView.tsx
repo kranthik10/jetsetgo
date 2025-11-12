@@ -1,3 +1,3 @@
-import MapView from "react-native-maps";
+import { MapView } from "expo-maps";
 
 export default MapView;
